@@ -1,3 +1,3 @@
 # Python felszín
 
-Ebben a repositoryban elkészítettem a Python felaat felszín részét.
+Ebben a repositoryban elkészítettem a Python feladat felszín részét.
